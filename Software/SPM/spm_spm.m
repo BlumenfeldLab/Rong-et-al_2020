@@ -1,4 +1,3 @@
-% Author: Joshua Ryu, Date: 12/20/2016
 % Voxel-wise modeling
 % this implementation discards the beta image for the block offset, though
 % it takes it into the GLM for calculation. To change this, add 1 to the
